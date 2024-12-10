@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732452364250",
+    "project_id": "agri-commend",
+    "storage_bucket": "agri-commend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732452364250:android:7c724068dd3f055275eae3",
+        "android_client_info": {
+          "package_name": "com.example.agricommend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYdJn_8LSY7Ve3ujcpp82eNHy6EpY4uNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
